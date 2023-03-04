@@ -1,4 +1,3 @@
-# complete_advanced_flutter_arabic
 
 A new Flutter project.
 
